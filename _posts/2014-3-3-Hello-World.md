@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: I'm up and running with Jekyll!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
+Just added my first GitHub-driven blog using Jekyll. More to come....
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
